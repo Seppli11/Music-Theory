@@ -58,6 +58,3 @@ As a general rule: If it can move on its own, use ``imasu`` else ``ariamsu``.
 
 Depending on the context ``imasu`` and ``arimasu`` can say what you own/have, a "There is x" sentence
 or that something will happen in the future.
-
-Additionaly a place can be specified by placing ``<place> ni`` in the sentence. 
-(For more details see :ref:`Mark a Place <mark-a-place>`)

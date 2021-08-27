@@ -18,8 +18,8 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Japanese Theory'
-copyright = '2020, Sebastian Zumbrunn'
+project = 'Music Theory'
+copyright = '2021, Sebastian Zumbrunn'
 author = 'Sebastian Zumbrunn'
 
 
