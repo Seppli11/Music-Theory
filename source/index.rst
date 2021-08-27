@@ -1,8 +1,7 @@
-Welcome to Japanese Theory!
+Willkommen zu Musik-Theory
 ===========================================
 
-Many of the examples and the gist of the theory is from the Rocket Japanese course.
-This is a summary to help me remember the grammar. 
+Ich versuche hier mein Wissen über Musik-Theory zusammen zufassen, um es mir zu merken und ein Nachschlagewerk zu haben
 
 .. toctree::
    :maxdepth: 2
