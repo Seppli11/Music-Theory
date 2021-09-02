@@ -9,5 +9,7 @@ Quintenzirkel
 
 Merksatz
 --------
-Dur-Tonarten mit #: Geh du alter Esel hohle Fische
-Dur-Tonarten mit b: Feine Bauern essen asiatisches dessert gesaltzen
+=================== =======================================================
+Dur-Tonarten mit #  Geh du alter Esel hohle Fische
+Dur-Tonarten mit b  Feine Bauern essen asiatisches dessert gesaltzen
+=================== =======================================================
